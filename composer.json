@@ -1,0 +1,6 @@
+{
+    "name": "ncut/lara_auto",
+    "description": "autoload classes",
+    "type": "n",
+    "require": {}
+}
