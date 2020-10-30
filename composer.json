@@ -1,6 +1,11 @@
 {
     "name": "ncut/lara_auto",
     "description": "autoload classes",
-    "type": "n",
-    "require": {}
+    "authors": [
+        {
+            "name": "李譯騏",
+            "email": "3a732033@gmail.com"
+        }
+    ],
+
 }
